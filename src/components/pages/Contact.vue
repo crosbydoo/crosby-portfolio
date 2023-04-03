@@ -41,7 +41,7 @@ import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
         <div class="container">
             <div class="flex flex-wrap">
                 <div class="w-full px-4 mb-12">
-                    <h2 class="font-bold text-xl text-white text-center md:text-left">Copyright &copy 2023. All rights are reserved</h2>
+                    <p class="font-semibold text-white text-center md:text-left">Copyright &copy 2023. All rights are reserved</p>
                 </div>
             </div>
         </div>
