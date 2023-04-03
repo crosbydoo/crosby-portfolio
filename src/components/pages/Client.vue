@@ -19,7 +19,7 @@
                         <img src="@/assets/svg/discord.svg" alt="google">
                     </a>
                     <a href="" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
-                        <img src="@/assets/svg/Shopee.svg" alt="google">
+                        <img src="@/assets/svg/shopee.svg" alt="google">
                     </a>
                     <a href="" class="max-w-[120px] mx-4 py-4 grayscale opacity-60 transition hover:grayscale-0 hover:opacity-100 lg:mx-6 xl:mx-8">
                         <img src="@/assets/svg/gojek.svg" alt="google">
