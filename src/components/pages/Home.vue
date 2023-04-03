@@ -48,5 +48,4 @@
     import portfolio from "./Portfolio.vue"
     import client from "./Client.vue"
     import contact from "./Contact.vue"
-    import footer from "./Footer.vue"
 </script>
